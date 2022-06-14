@@ -48,7 +48,7 @@ Missions:
 - [Eslint](https://eslint.org/ "Eslint Oficial") ^8.15.0 (Linter que examina código Javascript de acuerdo a ciertas normas y criterios (personalizables por el programador) para que el código Javascript siga unos estándares y estilos de calidad).
 - [Prisma](https://jestjs.io/es-ES/](https://www.prisma.io/ "Prisma Oficial") ^3.14.0 ([ORM](https://codigofacilito.com/articulos/orm-explicacion "Qué es un ORM") de próxima generación de código abierto).
 
-3. Crear un proyecto de JS dentro de la carpeta `visual-thinking-api` con las opciones por defecto:
+3. Crear un proyecto de JS dentro de la carpeta `api-prisma-db` con las opciones por defecto:
 
 ```
 npm init --yes
