@@ -79,7 +79,7 @@ graph TD;
 - `Server.js`: Contendrá los endpoints (API).
 - `Seed.js`: Inserciones iniciales a la BD.
 - `Schema.prisma`: Aquí se define la estructura de las tablas para realizar las migraciones.
-- `.env`: Archivo para establecer las variables de entorno y contiene la cadena de conección de PostgreSQL con la siguiente estructura:
+- `.env`: Archivo para establecer las variables de entorno y contiene la cadena de conexión de PostgreSQL con la siguiente estructura:
 
 ```env
 DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/mydb?schema=public"
